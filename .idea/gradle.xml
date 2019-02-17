@@ -9,6 +9,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/day2" />
+            <option value="$PROJECT_DIR$/day3" />
+            <option value="$PROJECT_DIR$/eventbus" />
+            <option value="$PROJECT_DIR$/zhoukao1" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

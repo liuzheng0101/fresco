@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':day2', ':eventbus', ':day3', ':zhoukao1'
